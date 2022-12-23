@@ -1,0 +1,72 @@
+*
+{
+    font-family: Verdana;
+    margin: 0;
+}
+
+#baner
+{
+    background-color: RGB(205,92,92);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#stopka
+{
+    background-color: RGB(205,92,92);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#lewy
+{
+    background-color: RGB(250,235,215);
+    width: 25%;
+    height: 500px;
+    float:left
+}
+
+#prawy
+{
+    background-color: RGB(250,235,215);
+    width: 25%;
+    height: 500px;
+    float: right;
+}
+
+#srodkowy
+{
+    background-color: RGB(250,235,215);
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+#dane
+{
+    background-color: RGB(210,180,140);
+    color: white;
+}
+
+h2
+{
+    text-align: center;
+}
+
+h2::first-letter
+{
+    font-size: 150%;
+}
+
+img 
+{
+    height: 100px;
+    padding: 7px;
+}
+
+img:hover
+{
+    background-color: RGB(210,180,140);
+}
